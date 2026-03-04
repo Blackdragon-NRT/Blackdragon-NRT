@@ -41,26 +41,12 @@ I am currently deep in study mode, building a technical foundation that goes dee
 
 ---
 
-## 🗺️ Future Certification Roadmap
-
 Once my core foundations are solid, I will advance through this structured certification path:
+## 🗺️ Certification Roadmap
 
-### ✅ Phase 1: Advanced Web Application Penetration Testing 
-*Focusing on deep web vulnerabilities and reporting.*
-- 🎓 **Target Certifications:**
-  - **eWPT** (eLearnSecurity Web Penetration Tester)
-  - **eWPTX** (eLearnSecurity Web Penetration Tester eXtreme)
-
-### 🔜 Phase 2: Network Penetration Testing (Next Up)
-*Moving from apps to infrastructure, domains, and lateral movement.*
-- 🌐 **Network Fundamentals:** CompTIA **Network+**
-- 🕸️ **Network Penetration Testing Fundamentals:** **eJPTv2**
-- ⚔️ **Offensive Operations:** **eCPPT** (eLearnSecurity Certified Professional Penetration Tester)
-
-### 🔜 Phase 3: Active Directory Mastery
-*Specializing in enterprise environments and Red Team operations.*
-- 🏢 **Certified Red Team Professional (CRTP)**
-- 🏆 **Certified Red Team Expert (CRTE)**
+**Phase 1: Advanced Web Pentesting** → `eWPT` → `eWPTX`  
+**Phase 2: Network Pentesting** → `Network+` → `eJPTv2` → `eCPPT`  
+**Phase 3: Active Directory** → `CRTP` → `CRTE`
 
 ---
 
@@ -92,7 +78,7 @@ Let's talk about vulnerabilities, system internals, CTFs, or bug bounty hunting!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Blackdragon--NRT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blackdragon-NRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forpersonalusing27.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
 
 <br>
 
