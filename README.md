@@ -50,7 +50,7 @@ Once my core foundations are solid, I will advance through this structured certi
 
 ---
 
-## 🧠 Daily Logic Practice
+## 🧠 Logic Practice
 
 > *"Code today, hack tomorrow."*
 
