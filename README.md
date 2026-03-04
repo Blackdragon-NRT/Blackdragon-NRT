@@ -67,7 +67,6 @@ I sharpen my algorithmic thinking and scripting logic on **Codewars**:
   <img src="https://img.shields.io/badge/Language-JavaScript%20%26%20Bash-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Runtime-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Practice-Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" />
 </p>
 
 ---
