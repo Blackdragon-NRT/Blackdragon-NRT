@@ -9,18 +9,42 @@
 
 ## 🔬 Currently Building: Core Foundations
 
-I am currently deep in study mode, building a technical foundation that goes deeper than just "running tools." Here are the specific skills I am mastering right now:
+I am currently deep in study mode, building a technical foundation that goes deeper than just "running tools." Here are the specific skills and certifications I am mastering right now:
 
-### 🕸️ Web Security & Penetration Testing
-*From reconnaissance to exploitation — learning to think like an attacker.*
-- **Recon & OSINT:** Subdomain enumeration, Google Dorks, asset discovery, automated scanning workflows.
-- **Injection Attacks:** Manual & automated SQLi, XSS (Reflected/Stored/DOM), SSTI, Command Injection.
-- **Auth & Session Flaws:** JWT attacks, OAuth misconfigurations, session fixation, brute-force mitigation.
-- **Access Control:** IDOR, BOLA, BFLA, privilege escalation (horizontal/vertical), path traversal.
-- **API Security:** Testing REST & GraphQL endpoints, Mass Assignment, parameter pollution.
-- **Server-Side Bugs:** SSRF, XXE, file upload vulnerabilities, insecure deserialization.
-- **Business Logic:** Race conditions, price manipulation, workflow bypass, order tampering.
-- **Bug Bounty Methodology:** Target selection, professional report writing, HackerOne/Bugcrowd workflows.
+### 📡 CompTIA Network+ Foundations
+*Building the essential networking backbone via the **Network+** curriculum.*
+- **Network Models & Protocols:** Mastering OSI & TCP/IP models, data encapsulation, and protocol analysis.
+- **Infrastructure & Cabling:** Understanding network devices (Switches/Routers), cabling standards, and Ethernet operations.
+- **IP Addressing & Routing:** Proficient in IPv4/IPv6, subnetting calculations, DHCP, DNS, NAT, and routing protocols.
+- **Emerging Tech:** Wireless security standards (WPA3), virtualization concepts, cloud computing models, and IoT security basics.
+
+### 🛡️ eJPTv2 Practical Penetration Testing
+*Developing a methodical penetration testing mindset through the **INE eJPTv2** curriculum — focusing on deep fundamentals, hands-on labs, and real-world exploitation workflows.*
+
+#### 🔍 Reconnaissance & Information Gathering
+- Passive & active reconnaissance: WHOIS, DNS enumeration, Google Dorks, Shodan, and asset discovery.
+- Host discovery techniques: ICMP sweeps, ARP scanning, and Nmap host discovery strategies.
+- Service enumeration: SMB, SNMP, FTP, SSH, MySQL, Apache, SMTP — extracting actionable intelligence.
+
+#### ⚙️ Scanning & Vulnerability Assessment
+- Advanced Nmap usage: Service/version detection, NSE scripting, output parsing, and Zenmap visualization.
+- Vulnerability identification: Manual validation vs. automated scanning, false positive analysis, and risk prioritization.
+- Web application reconnaissance: HTTP method enumeration, parameter discovery, and Burp Suite proxy configuration.
+
+#### 💥 Exploitation & Metasploit Mastery
+- Metasploit Framework: Module selection, payload generation (`msfvenom`), encoding techniques, and resource scripting.
+- Network-based attacks: SMB exploitation, SNMP analysis, DNS/SMB relay attacks, and NetBIOS enumeration.
+- System-host attacks: Windows/Linux exploitation vectors, Shellshock, vulnerable services (FTP, SSH, HTTP), and credential attacks.
+
+#### 🕸️ Web Application Security
+- HTTP protocol deep dive: Methods, headers, cookies, authentication schemes, and session management.
+- Common web vulnerabilities: SQL injection, XSS (Reflected/Stored/DOM), file inclusion, and command injection.
+- Tool-assisted testing: Burp Suite workflows, proxy interception, repeater, and scanner integration.
+
+#### 🔐 Post-Exploitation & Professional Workflow
+- Privilege escalation: Windows (UAC bypass, token impersonation, Mimikatz) and Linux (SUID, cron jobs, kernel exploits).
+- Persistence & lateral movement: Service creation, scheduled tasks, RDP enablement, and pivoting techniques.
+- Operational security: Log clearing, evidence collection, and professional report writing aligned with industry standards.
 
 ### 🟢 Node.js & JavaScript Architecture
 *Understanding the runtime to find deeper application flaws.*
@@ -36,17 +60,18 @@ I am currently deep in study mode, building a technical foundation that goes dee
 - **Shell Power Tools:** Advanced `grep`, `sed`, `awk`, piping, redirection, text processing workflows.
 - **Process Management:** System calls, signals, IPC (pipes, queues, shared memory), threading.
 - **Memory Concepts:** Virtual memory, paging, overcommit policies, monitoring (`/proc/meminfo`).
-- **Networking Basics:** SSH key management, socket programming concepts, packet analysis prep.
 - **Automation:** Writing robust Bash scripts for recon, log analysis, and task automation.
 
 ---
 
-Once my core foundations are solid, I will advance through this structured certification path:
 ## 🗺️ Certification Roadmap
 
-**Phase 1: Advanced Web Pentesting** → `eWPT` → `eWPTX`  
-**Phase 2: Network Pentesting** → `Network+` → `eJPTv2` → `eCPPT`  
-**Phase 3: Active Directory** → `CRTP` → `CRTE`
+| Phase | Focus | Certifications & Milestones |
+|-------|-------|---------------------------|
+| **Phase 1: Foundations** | Networking, Programming, OS Basics | `CompTIA Network+` ✅ *In Progress* • `Node.js Fundamentals` • `Linux Essentials` |
+| **Phase 2: Web & Practical Pentesting** | Entry-level penetration testing methodology | `eJPTv2` ✅ *In Progress* → `eWPT` → `eWPTX` |
+| **Phase 3: Advanced Pentesting & Deep Networking** | Complex exploitation & enterprise infrastructure | `eCPPTv3` • `CCNA` (or equivalent deep networking course) |
+| **Phase 4: Active Directory & Red Teaming** | Domain exploitation & advanced adversary simulation | `CRTP` → `CRTE` |
 
 ---
 
@@ -76,8 +101,8 @@ I sharpen my algorithmic thinking and scripting logic on **Codewars**:
 Let's talk about vulnerabilities, system internals, CTFs, or bug bounty hunting!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Blackdragon--NRT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blackdragon-NRT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br>
 
